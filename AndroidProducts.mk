@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_hotdogg.mk
+    $(LOCAL_DIR)/evolution_hotdogg.mk
